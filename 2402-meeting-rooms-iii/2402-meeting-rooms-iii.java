@@ -2,38 +2,35 @@ class Solution {
     public int mostBooked(int n, int[][] meetings) {
         int k = meetings.length;
         Arrays.sort(meetings, (a, b) -> Integer.compare(a[0],b[0]));
-        PriorityQueue<Integer> free = new PriorityQueue<>();
-        PriorityQueue<Node> end = new PriorityQueue<Node>((a, b) ->(a.end_time!=b.end_time) ?Long.compare(a.end_time,b.end_time) :Long.compare(a.room,b.room));
-        int room_used[] = new int[n];
-        for(int i = 0;i<n;i++)
+        int room_used[]=new int[n];
+        long free_time[]=new long[n];
+        for(int i = 0;i<k;i++)
         {
-            free.add(i);
-        }
-        for(int i =0;i<k;i++)
-        {
-            ArrayList<Integer> list = isfree(end,meetings[i][0]);
-            if(!list.isEmpty())
+            int start = meetings[i][0];
+            int end = meetings[i][1];
+            long min_time = Long.MAX_VALUE;
+            int min_room = -1;
+            boolean flag = false;
+            for(int j =0;j<n;j++)
             {
-                free.addAll(list);
+                if(free_time[j]<=start)
+                {
+                    room_used[j]++;
+                    free_time[j]=end;
+                    flag = true;
+                    break;
+                }
+                if(min_time>free_time[j])
+                {
+                    min_time = free_time[j];
+                    min_room = j;
+                }
             }
-            if(!free.isEmpty())
-            {
-                room_used[free.peek()]+=1;
-                Node temp = new Node(meetings[i][1],free.poll());
-                end.add(temp);
-                //free.poll();
-            }
-            else
-            {
-                Node temp = end.poll();
-                int r=temp.room;
-                long e = temp.end_time;
-                room_used[r]+=1;
-                //end.poll();
-                temp = new Node(e+(meetings[i][1]-meetings[i][0]),r);
-                end.add(temp);
-            }
-            
+                if(!flag)
+                {
+                    room_used[min_room]++;
+                    free_time[min_room]+=end-start;
+                }
         }
         int max = Integer.MIN_VALUE;
         int r = -1;
@@ -46,28 +43,5 @@ class Solution {
             }
         }
         return r;
-    }
-    ArrayList<Integer> isfree(PriorityQueue<Node> end,int start_time)
-    {
-        int i = end.size();
-        ArrayList<Integer> r =new ArrayList<>();
-        for(int j=0;j<i;j++)
-        {
-            if(end.peek().end_time<=start_time)
-            {
-                Node temp = end.poll();
-                r.add(temp.room);
-            }
-        }
-        return r;
-    }
-}
-class Node {
-    long end_time;
-    int room;
-    Node(long e, int r)
-    {
-        end_time = e;
-        room = r;
     }
 }
