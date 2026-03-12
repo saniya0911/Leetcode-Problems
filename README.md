@@ -9,8 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
