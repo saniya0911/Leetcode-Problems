@@ -6,7 +6,6 @@ class Solution {
 
         for(int i = 0; i< prices.length; i++)
         {
-            System.out.println("yes");
             buy = Math.min(prices[i], buy);
             curr = prices[i]-buy;
             max = Math.max(max, curr);
