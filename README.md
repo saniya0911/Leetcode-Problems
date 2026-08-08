@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/saniya0911/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/saniya0911/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
