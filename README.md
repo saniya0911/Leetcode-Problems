@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/saniya0911/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
