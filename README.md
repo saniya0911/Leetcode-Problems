@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/saniya0911/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
