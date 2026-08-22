@@ -13,12 +13,19 @@ class Solution:
         #         return i
 
         # return n
+        # n = len(nums)
+        # sum = n*(n+1)/2
+        # s = 0
+        # for i in range(0,n):
+        #     s +=nums[i]
+        # if s==sum:
+        #     return 0
+        # else:
+        #     return int(sum-s)
         n = len(nums)
-        sum = n*(n+1)/2
-        s = 0
-        for i in range(0,n):
-            s +=nums[i]
-        if s==sum:
-            return 0
-        else:
-            return int(sum-s)
+        ans = 0
+        for i in range(1, n+1):
+            ans = ans^i
+        for i in range(0, n):
+            ans = ans^nums[i]
+        return ans
