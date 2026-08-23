@@ -11,7 +11,7 @@ class Solution:
 
             left = i+1
             right = length -1
-            while(left<right):
+            while(left<right and nums[right] >= 0):
                 s = nums[left] + nums[right] + nums[i]
                 if (s == 0):
                     ans.append([nums[i], nums[left], nums[right]])
