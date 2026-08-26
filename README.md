@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saniya0911/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/saniya0911/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saniya0911/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -157,9 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saniya0911/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saniya0911/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
