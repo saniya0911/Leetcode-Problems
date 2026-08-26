@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
