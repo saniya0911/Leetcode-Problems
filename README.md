@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/0039-combination-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
