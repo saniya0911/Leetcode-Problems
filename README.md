@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saniya0911/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saniya0911/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/saniya0911/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/saniya0911/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saniya0911/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saniya0911/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union-Find
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saniya0911/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
@@ -270,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saniya0911/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
