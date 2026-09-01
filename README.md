@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saniya0911/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/saniya0911/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/saniya0911/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/saniya0911/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saniya0911/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
