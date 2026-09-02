@@ -287,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/saniya0911/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
