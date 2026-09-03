@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saniya0911/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/saniya0911/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/saniya0911/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
