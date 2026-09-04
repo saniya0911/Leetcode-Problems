@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/saniya0911/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/saniya0911/Leetcode-Problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/saniya0911/Leetcode-Problems/tree/master/0595-big-countries) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/saniya0911/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
