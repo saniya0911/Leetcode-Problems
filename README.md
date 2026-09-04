@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/saniya0911/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1280-students-and-examinations](https://github.com/saniya0911/Leetcode-Problems/tree/master/1280-students-and-examinations) |
 ## Quicksort
 |  |
 | ------- |
