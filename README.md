@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
