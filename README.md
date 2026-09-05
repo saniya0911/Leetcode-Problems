@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saniya0911/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saniya0911/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saniya0911/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saniya0911/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/saniya0911/Leetcode-Problems/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saniya0911/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saniya0911/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saniya0911/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saniya0911/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Simulation
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/saniya0911/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/saniya0911/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saniya0911/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 ## Design
 |  |
 | ------- |
