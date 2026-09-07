@@ -1,6 +1,7 @@
 class TrieNode:
     def __init__(self):
-        self.children = [''] * 26
+        # self.children = [''] * 26
+        self.children = {}
         self.iseow = False
         
 class Trie:
@@ -11,23 +12,37 @@ class Trie:
 
     def insert(self, word: str) -> None:
         # self.trie.append(word)
+        # curr = self.root
+
+        # for c in word:
+        #     if not curr.children[ord(c)-ord('a')]:
+        #         curr.children[ord(c)-ord('a')] = TrieNode()
+        #     curr = curr.children[ord(c)-ord('a')]
+        # curr.iseow = True
         curr = self.root
 
         for c in word:
-            if not curr.children[ord(c)-ord('a')]:
-                curr.children[ord(c)-ord('a')] = TrieNode()
-            curr = curr.children[ord(c)-ord('a')]
+            if c not in curr.children:
+                curr.children[c] = TrieNode()
+            curr = curr.children[c]
         curr.iseow = True
 
     def search(self, word: str) -> bool:
         # if word in self.trie:
         #     return True
         # return False
+        # curr = self.root
+        # for c in word:
+        #     if not curr.children[ord(c)-ord('a')]:
+        #         return False
+        #     curr = curr.children[ord(c)-ord('a')]
+
+        # return curr.iseow
         curr = self.root
         for c in word:
-            if not curr.children[ord(c)-ord('a')]:
+            if c not in curr.children:
                 return False
-            curr = curr.children[ord(c)-ord('a')]
+            curr = curr.children[c]
 
         return curr.iseow
 
@@ -42,11 +57,18 @@ class Trie:
         #         return True
 
         # return False
+        # curr = self.root
+        # for c in prefix:
+        #     if not curr.children[ord(c)-ord('a')]:
+        #         return False
+        #     curr = curr.children[ord(c)-ord('a')]
+
+        # return True
         curr = self.root
         for c in prefix:
-            if not curr.children[ord(c)-ord('a')]:
+            if c not in curr.children:
                 return False
-            curr = curr.children[ord(c)-ord('a')]
+            curr = curr.children[c]
 
         return True
 
