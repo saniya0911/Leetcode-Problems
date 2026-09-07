@@ -5,9 +5,12 @@ class Solution:
             if i not in mp:
                 mp[i] = 0
             mp[i] += 1
-
-        for key in mp:
-            if mp[key] >= 2:
+            if mp[i] >= 2:
                 return True
-
         return False
+
+        # for key in mp:
+        #     if mp[key] >= 2:
+        #         return True
+
+        # return False
