@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saniya0911/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saniya0911/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saniya0911/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/saniya0911/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/saniya0911/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/saniya0911/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saniya0911/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -258,11 +262,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saniya0911/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -344,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saniya0911/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
