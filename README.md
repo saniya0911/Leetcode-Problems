@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/saniya0911/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saniya0911/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/saniya0911/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/saniya0911/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/saniya0911/Leetcode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saniya0911/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/saniya0911/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saniya0911/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/saniya0911/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
