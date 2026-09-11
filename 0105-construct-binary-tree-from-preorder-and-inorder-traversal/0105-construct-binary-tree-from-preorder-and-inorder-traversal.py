@@ -13,9 +13,13 @@ class Solution:
             return None
         if n == 1:
             return TreeNode(preorder[0])
+        index = {}
+        for i in range(n):
+            index[inorder[i]] = i
         parent = TreeNode(preorder[0])
         # p = self.parent_index(parent.val, inorder)
-        p = inorder.index(parent.val)
+        # p = inorder.index(parent.val)
+        p = index[parent.val]
         left = self.buildTree(preorder[1:], inorder[0:p])
         right = self.buildTree(preorder[p+1:], inorder[p+1:])
         parent.left = left
