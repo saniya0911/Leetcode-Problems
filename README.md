@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saniya0911/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/saniya0911/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/saniya0911/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/saniya0911/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Counting Sort
 |  |
 | ------- |
