@@ -26,8 +26,8 @@ class Solution:
         parent.right = right
         return parent
 
-    def parent_index(self, target, nums):
-        for i in range(len(nums)):
-            if nums[i] == target:
-                return i
-        return len(nums) - 1
+    # def parent_index(self, target, nums):
+    #     for i in range(len(nums)):
+    #         if nums[i] == target:
+    #             return i
+    #     return len(nums) - 1
