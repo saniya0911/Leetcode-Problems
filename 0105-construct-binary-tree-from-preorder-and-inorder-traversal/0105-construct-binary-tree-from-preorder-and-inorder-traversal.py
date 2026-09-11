@@ -14,7 +14,8 @@ class Solution:
         if n == 1:
             return TreeNode(preorder[0])
         parent = TreeNode(preorder[0])
-        p = self.parent_index(parent.val, inorder)
+        # p = self.parent_index(parent.val, inorder)
+        p = inorder.index(parent.val)
         left = self.buildTree(preorder[1:], inorder[0:p])
         right = self.buildTree(preorder[p+1:], inorder[p+1:])
         parent.left = left
