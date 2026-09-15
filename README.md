@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saniya0911/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/saniya0911/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/saniya0911/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/saniya0911/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saniya0911/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
