@@ -33,7 +33,7 @@ class Solution:
             if valid:
                 intervals.append([start, end])
         
-        intervals.sort(key = lambda x: x[1])
+        intervals.sort(key = lambda x: (x[1], x[1] - x[0]))
         ans = []
         prev_end = -1
         for start, end in intervals:
