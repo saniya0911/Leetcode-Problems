@@ -31,7 +31,7 @@ class Solution:
                     j += 1
 
                 if valid:
-                    if i > right:
+                    if end > right:
                         ans.append(s[start: end+1])
                     else:
                         ans[-1] = s[start:end+1]
