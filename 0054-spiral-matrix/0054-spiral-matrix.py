@@ -17,14 +17,16 @@ class Solution:
             for i in range(srow, erow):
                 temp.append(matrix[i][ecol-1])
             ecol -= 1
-            for i in range(ecol-1, scol-1, -1):
-                if len(temp) == m*n:
-                    break
-                temp.append(matrix[erow-1][i])
-            erow -= 1
-            for i in range(erow-1, srow-1, -1):
-                if len(temp) == m*n:
-                    break
-                temp.append(matrix[i][scol])
-            scol += 1
+            if srow < erow:
+                for i in range(ecol-1, scol-1, -1):
+                    # if len(temp) == m*n:
+                    #     break
+                    temp.append(matrix[erow-1][i])
+                erow -= 1
+            if ecol > scol:
+                for i in range(erow-1, srow-1, -1):
+                    # if len(temp) == m*n:
+                    #     break
+                    temp.append(matrix[i][scol])
+                scol += 1
         return temp
