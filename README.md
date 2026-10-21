@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/saniya0911/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/saniya0911/Leetcode-Problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saniya0911/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/saniya0911/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/saniya0911/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/saniya0911/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saniya0911/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/saniya0911/Leetcode-Problems/tree/master/0139-word-break) |
