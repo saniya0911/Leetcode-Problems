@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/saniya0911/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/saniya0911/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saniya0911/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/saniya0911/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/saniya0911/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saniya0911/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saniya0911/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saniya0911/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saniya0911/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saniya0911/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/saniya0911/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saniya0911/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -469,4 +473,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saniya0911/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saniya0911/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
